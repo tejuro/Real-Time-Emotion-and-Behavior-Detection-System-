@@ -30,4 +30,3 @@ Built an AI-driven system that detects emotions, drowsiness, and gaze behavior i
 
 ✔️ Driver Safety – Alert drowsy drivers in real-time.
 
-This project enhances AI-driven human behavior monitoring and can be expanded further! 🚀
